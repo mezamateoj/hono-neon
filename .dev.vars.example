@@ -1,0 +1,2 @@
+create a new file named .dev.vars in the root of the project and add the following content:
+KEY=VALUE
